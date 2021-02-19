@@ -13,3 +13,6 @@ To make sure we can keep up with doing this, we have set a bunch of rules for wh
 * Unrelated items about the documentation
 * Contents which are deemed unsafe for view to minors
 * Anything offensive for our community
+
+### Quick note
+We prefer anything written with HTML language for websites. We are welcoming `.md` extensions too. If you are uncertain about anything, feel free to ask us!
